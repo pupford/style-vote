@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+dist
+.vercel
+.DS_Store
+*.log
+tsconfig.tsbuildinfo
+
+.env
+.env.local
+.env.*.local
+
+# Local vote fallback. Production votes live in Upstash Redis.
+data

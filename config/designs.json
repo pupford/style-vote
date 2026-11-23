@@ -1,0 +1,107 @@
+{
+  "id": "round-1",
+  "round": "Pupford Illustration Style Vote - Round 1",
+  "title": "Pupford Illustration Style Vote, Round 1",
+  "intro": "Help us find the illustration style that feels most like Pupford. For each design, pick the take that's closest to our brand, and tell us why if you like.",
+  "designs": [
+    {
+      "id": "00",
+      "title": "Girl with glasses + Bernese mountain dog",
+      "takes": [
+        "00A",
+        "00B",
+        "00C"
+      ]
+    },
+    {
+      "id": "01",
+      "title": "Gray-bearded man + golden retriever",
+      "takes": [
+        "01A",
+        "01B",
+        "01C"
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Curly-haired woman giving a treat + French bulldog",
+      "takes": [
+        "02A",
+        "02B",
+        "02C"
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Teen in a hoodie + border collie",
+      "takes": [
+        "03A",
+        "03B",
+        "03C"
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Woman in a wheelchair + black Lab",
+      "takes": [
+        "04A",
+        "04B",
+        "04C"
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Man with a dachshund in his lap",
+      "takes": [
+        "05A",
+        "05B",
+        "05C"
+      ]
+    },
+    {
+      "id": "06",
+      "title": "Grandma + corgi",
+      "takes": [
+        "06A",
+        "06B",
+        "06C"
+      ]
+    },
+    {
+      "id": "07",
+      "title": "Woman in a hijab shaking paws + standard poodle",
+      "takes": [
+        "07A",
+        "07B",
+        "07C"
+      ]
+    },
+    {
+      "id": "08",
+      "title": "Boy hugging a beagle",
+      "takes": [
+        "08A",
+        "08B",
+        "08C"
+      ]
+    },
+    {
+      "id": "09",
+      "title": "Runner + German shepherd",
+      "takes": [
+        "09A",
+        "09B",
+        "09C"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Tattooed man holding a treat + pit bull mix",
+      "takes": [
+        "10A",
+        "10B",
+        "10C"
+      ]
+    }
+  ]
+}
